@@ -16,7 +16,7 @@ terraform {
     }
     azuread = {
       source  = "hashicorp/azuread"
-      version = "3.4.0"
+      version = "3.6.0"
     }
     launchdarkly = {
       source  = "launchdarkly/launchdarkly"
